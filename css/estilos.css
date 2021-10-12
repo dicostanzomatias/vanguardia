@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+
+h1 {color: #3F6177; font-family: 'Roboto', sans-serif,700;}
+h4 {color: #3F6177; font-family: 'Roboto', sans-serif,700;}
+
+p {font-family: 'Roboto', sans-serif,400; font-size: 15px;}
+
+.txt h1 {font-size: 100px;}
+
+.txtcaja1{background-color:#BF9A41;}
+.txtcaja2{background-color:#980019; color: white;}
+.txtcaja3{background-color:#4B6B5E;color: white;}
+.txtcaja4{background-color:#7BAA80;}
+
+.txtcaja1 h2 {font-family: 'Roboto', sans-serif,700; font-size: 30px;}
+
+.txtart h4 {font-family: 'Roboto', sans-serif,700; font-size: 30px;}
+
+i{color: red;}
+
+
